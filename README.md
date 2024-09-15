@@ -1,5 +1,4 @@
 # Hello 👋, I’m Sana Shaheen
-<hr>
 <br>
 👀 A Passionate Computer Science Student <br>
 🌱 Currently expanding my knowledge in Data Science,Bootstrap and Web Development.<br>

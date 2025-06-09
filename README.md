@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sana-shah-een&label=Profile%20views&color=0e75b6&style=flat" alt="sana-shah-een" /> </p>
 
-- 🌱 I’m currently learning **firebase authentication with Flutter**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Sana-Shah-een](https://github.com/Sana-Shah-een)
 
 - 📫 How to reach me **sanashaheen834@gmail.com**
